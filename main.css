@@ -1,0 +1,10 @@
+:root {
+  font-family: sans-serif;
+  font-size: 28px;
+  text-align: center;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
